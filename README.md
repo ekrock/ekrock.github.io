@@ -1,2 +1,11 @@
 # ekrock.github.io
-Eric Krock repository of development projects and software product management work.
+Eric Krock repository of development projects and software product management work. Contact me on [LinkedIn](https://www.linkedin.com/in/eric-krock/).
+
+## [FingrHealth Prototype Digital Health Tracking App](https://fingrhealth.lovable.app/)
+Used Lovable and Google Gemini to develop a prototype digital health tracker app for people with Body Focused Repetitive Behaviors such as nail. Created synthetic imagery to validate model. Used Gemini to assess each finger's health. In the future I plan to create a HIPAA-compliant version suitable for production consumer use.
+
+## ["Debunk That Lie with AI" Custom GPT]([https://bit.ly/debunk-ai](https://chatgpt.com/g/g-693b5bcb4a74819180cf687fad0881c9-debunk-that-lie-with-ai))
+Used Chat_GPT 5.2 to write custom GPT that helps you correct online misinformation without escalating arguments. It takes a single false claim and (usually) writes a calm, platform-ready reply (for X, X Community Notes, Bluesky, Facebook, etc.) with credible sources: 240 characters max, neutral, and easy to copy and paste. Wrote [validation test harness](https://colab.research.google.com/drive/1Q2gEeVc2KvLEzRoBQ477_nTl2xm_QM3x?usp=sharing) in Python within Google Colab. Read the [FAQ]([https://bit.ly/debunk-ai-faq](https://docs.google.com/document/d/1GG6NLQeSCfyf134_-ZQ9ketBH8hdJO-vlU-6CAHYKwA/edit?usp=sharing)). Email feedback to contacterickrock@yahoo.com.
+
+## ["Debunk That Post the Most" Custom GPT](https://chatgpt.com/g/g-693cb7d6ffd08191bc8e8d3f2b4b88ba-debunk-that-post-the-most)
+Used Chat_GPT 5.2 to write custom GPT that helps you debunk long social media posts (e.g. Gish Gallops on Facebook) that contain multiple false statements. Paste in thee text of a post found on social media. It will identify up to 10 false claims and write a reply calmly debunking each one, citing credible sources. Responses are presented as flat text no longer than 8000 characters to make them easy to copy and paste into a Facebook reply. Wrote [validation test harness](https://colab.research.google.com/drive/1u6rs_qUlcVIO9pXENzzBNL2hxXrrz1_x?usp=sharing) in Python within Google Colab. Read the [FAQ]([https://bit.ly/debunk-ai-faq](https://docs.google.com/document/d/1GG6NLQeSCfyf134_-ZQ9ketBH8hdJO-vlU-6CAHYKwA/edit?usp=sharing)). Email feedback to contacterickrock@yahoo.com.
